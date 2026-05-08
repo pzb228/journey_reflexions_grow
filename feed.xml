@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Journey Reflections Grow</title>
+    <link href="https://pzb228.github.io/journey_reflexions_grow/feed.xml" rel="self" />
+    <link href="https://pzb228.github.io/journey_reflexions_grow" />
+    <updated>2026-05-08T16:41:57-07:00</updated>
+    <author>
+        <name>Patricia Zapata Barrientos</name>
+    </author>
+    <id>https://pzb228.github.io/journey_reflexions_grow</id>
+
+    <entry>
+        <title>This is my new entry</title>
+        <author>
+            <name>Patricia Zapata Barrientos</name>
+        </author>
+        <link href="https://pzb228.github.io/journey_reflexions_grow/this-is-my-new-entry.html"/>
+        <id>https://pzb228.github.io/journey_reflexions_grow/this-is-my-new-entry.html</id>
+
+        <updated>2026-05-08T16:41:57-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p><img loading="lazy" src="https://thenarwhal.ca/wp-content/uploads/2024/08/Old-Growth-1-2200x1833.jpg" data-is-external-image="true"></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

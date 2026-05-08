@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Journey Reflections Grow",
+    "description": "",
+    "home_page_url": "https://pzb228.github.io/journey_reflexions_grow",
+    "feed_url": "https://pzb228.github.io/journey_reflexions_grow/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Patricia Zapata Barrientos"
+    },
+    "items": [
+        {
+            "id": "https://pzb228.github.io/journey_reflexions_grow/this-is-my-new-entry.html",
+            "url": "https://pzb228.github.io/journey_reflexions_grow/this-is-my-new-entry.html",
+            "title": "This is my new entry",
+            "content_html": "<p><img loading=\"lazy\" src=\"https://thenarwhal.ca/wp-content/uploads/2024/08/Old-Growth-1-2200x1833.jpg\" data-is-external-image=\"true\"></p>",
+            "author": {
+                "name": "Patricia Zapata Barrientos"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-08T16:41:57-07:00",
+            "date_modified": "2026-05-08T16:41:57-07:00"
+        }
+    ]
+}
