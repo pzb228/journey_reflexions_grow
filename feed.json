@@ -12,15 +12,16 @@
         {
             "id": "https://pzb228.github.io/journey_reflexions_grow/this-is-my-new-entry.html",
             "url": "https://pzb228.github.io/journey_reflexions_grow/this-is-my-new-entry.html",
-            "title": "This is my new entry",
-            "content_html": "<p><img loading=\"lazy\" src=\"https://thenarwhal.ca/wp-content/uploads/2024/08/Old-Growth-1-2200x1833.jpg\" data-is-external-image=\"true\"></p>",
+            "title": "Module 1",
+            "summary": "dsdsidfo ksjdfksdj",
+            "content_html": "<figure class=\"align-center\"><img loading=\"lazy\"  src=\"https://leisurevans.com/wp-content/uploads/2017/07/Whistler-BC.jpg\" data-is-external-image=\"true\"></figure>\n<p> </p>\n<p>dsdsidfo ksjdfksdj</p>",
             "author": {
                 "name": "Patricia Zapata Barrientos"
             },
             "tags": [
             ],
             "date_published": "2026-05-08T16:41:57-07:00",
-            "date_modified": "2026-05-08T16:41:57-07:00"
+            "date_modified": "2026-05-09T09:53:32-07:00"
         }
     ]
 }
